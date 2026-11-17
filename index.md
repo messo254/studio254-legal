@@ -30,7 +30,7 @@ We share limited, necessary data only with trusted service providers required to
 We do not sell, rent, or trade your personal information or fitness data to third parties.
 
 ## 5. Data Retention & Account Deletion
-We retain your personal and fitness data for as long as your account remains active. You may request access to, correction of, or permanent deletion of your account and associated data at any time by contacting us at **[YOUR_CONTACT_EMAIL]**.
+We retain your personal and fitness data for as long as your account remains active. You may request access to, correction of, or permanent deletion of your account and associated data at any time from the App in your Profile tab (Clear Data/Delete Account) or by contacting us at **studio.254@icloud.com**.
 
 ## 6. Children's Privacy
 Studio254 is not intended for children under the age of 13, and we do not knowingly collect personal information from children under 13.
@@ -40,5 +40,5 @@ We may update this Privacy Policy from time to time. Any updates will be posted 
 
 ## 8. Contact Us
 If you have questions about this Privacy Policy or wish to request account deletion, contact us at:
-- **Email:** lilvmesso@icloud.com
+- **Email:** studio.254@icloud.com
 - **Business:** Studio254, Nairobi, Kenya
